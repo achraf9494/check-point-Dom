@@ -1,0 +1,39 @@
+th,td{
+    width:10%;
+    text-align:center;
+}
+img{
+    width:350px;
+}
+h1{
+    text-align:center;
+    color: aquamarine;
+}
+h3{
+    text-align:center;
+    color: rgb(155, 127, 255);
+}
+.hhhh th{
+    background-color: #3CD7D6;
+    color:white;
+    text-align:left;
+    font-weight:bold;
+
+}
+.L td {
+    border-bottom : 2px solid #3CD7D6;
+}
+.delete{
+    width:100px;
+    height:50px;
+    background-color: #3CD7D6;
+    border-radius: 5px;
+    font-size:2rem;
+
+}
+/* .like .fa-heart{
+    color: red;
+  }
+  .unlike .fa-heart{
+    color: black;
+  } */
